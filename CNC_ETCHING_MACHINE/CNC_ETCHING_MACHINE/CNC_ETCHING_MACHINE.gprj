@@ -1,0 +1,16 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88C6/I5">gw1nr9c-000</Device>
+    <FileList>
+        <File path="src/CNC_ETCHING_MACHINE.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Instruction_FIFO.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Opcode_Decoder.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/SPI_Interface.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Step_Generator.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/CNC_ETCHING_MACHINE.cst" type="file.cst" enable="1"/>
+        <File path="src/CNC_ETCHING_MACHINE.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>

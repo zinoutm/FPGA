@@ -1,0 +1,86 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd'
+Analyzing entity 'spi_interface'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":5)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":19)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Instruction_FIFO.vhd'
+Analyzing entity 'instruction_fifo'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Instruction_FIFO.vhd":5)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Instruction_FIFO.vhd":16)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Opcode_Decoder.vhd'
+Analyzing entity 'opcode_decoder'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Opcode_Decoder.vhd":5)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Opcode_Decoder.vhd":35)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Step_Generator.vhd'
+Analyzing entity 'step_generator'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Step_Generator.vhd":5)
+Analyzing architecture 'behavioral'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Step_Generator.vhd":30)
+Analyzing VHDL file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.vhd'
+Analyzing entity 'cnc_etching_machine'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.vhd":5)
+Analyzing architecture 'structural'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.vhd":23)
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v'
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_expression.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_parameter.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_top_define.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing included file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_parameter.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\gw_jtag.v'
+Analyzing Verilog file 'D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
+Processing 'CNC_ETCHING_MACHINE(structural)'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.vhd":5)
+Processing 'SPI_Interface(Behavioral)'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":5)
+WARN  (EX4749) : 'current_x' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":37)
+WARN  (EX4387) : Incomplete sensitivity list specified, assuming completeness("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":82)
+Processing 'Instruction_FIFO(Behavioral)'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Instruction_FIFO.vhd":5)
+Processing 'Opcode_Decoder(Behavioral)'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Opcode_Decoder.vhd":5)
+Processing 'Step_Generator(Behavioral)'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\Step_Generator.vhd":5)
+Compiling module 'gw_gao'("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
+Compiling module 'GW_JTAG'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\gw_jtag.v":1)
+Compiling module '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Compiling module '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Compiling module '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Extracting RAM for identifier '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Compiling module '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v":74)
+Compiling module '**'("D:\Gowin\Gowin_V1.9.12_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Trying to combine GAO to RTL design
+NOTE  (EX0101) : Current top module is "CNC_ETCHING_MACHINE"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+WARN  (AG0100) : Find logical loop signal : "miso_reg"("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":81)
+WARN  (AG0100) : Find logical loop signal : "miso_reg"("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":81)
+WARN  (AG0100) : Find logical loop signal : "miso_reg"("D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\SPI_Interface.vhd":81)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg" completed
+[100%] Generate report file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\CNC_ETCHING_MACHINE_syn.rpt.html" completed
+GowinSynthesis finish

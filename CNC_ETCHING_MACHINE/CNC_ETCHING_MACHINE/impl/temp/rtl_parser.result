@@ -1,0 +1,44 @@
+[
+ {
+  "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+  "InstLine" : 5,
+  "InstName" : "CNC_ETCHING_MACHINE",
+  "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "CNC_ETCHING_MACHINE",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+    "InstLine" : 54,
+    "InstName" : "SPI_Unit",
+    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/SPI_Interface.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "SPI_Interface"
+   },
+   {
+    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+    "InstLine" : 68,
+    "InstName" : "FIFO_Unit",
+    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Instruction_FIFO.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "Instruction_FIFO"
+   },
+   {
+    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+    "InstLine" : 79,
+    "InstName" : "The_Decoder",
+    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Opcode_Decoder.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "Opcode_Decoder"
+   },
+   {
+    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+    "InstLine" : 104,
+    "InstName" : "Motor_Driver",
+    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Step_Generator.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "Step_Generator"
+   }
+  ]
+ }
+]
