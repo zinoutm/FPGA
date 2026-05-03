@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="CNC_ETCHING_MACHINE" Lut="8" T_Register="3143(0)" T_Alu="1062(0)" T_Lut="2026(8)" T_Bsram="15(0)" T_Ssram="1(0)">
- <SubModule name="SPI_Unit" Register="352" Alu="7" Lut="120" Ssram="1" T_Register="352(352)" T_Alu="7(7)" T_Lut="120(120)" T_Ssram="1(1)"/>
- <SubModule name="FIFO_Unit" Register="974" Lut="503" T_Register="974(974)" T_Lut="503(503)"/>
- <SubModule name="The_Decoder" Register="118" Lut="122" T_Register="118(118)" T_Lut="122(122)"/>
- <SubModule name="Motor_Driver" Register="430" Alu="1042" Lut="600" T_Register="430(430)" T_Alu="1042(1042)" T_Lut="600(600)"/>
- <SubModule name="gw_gao_inst_0" Register="1269" Alu="13" Lut="673" Bsram="15" T_Register="1269(1269)" T_Alu="13(13)" T_Lut="673(673)" T_Bsram="15(15)"/>
+<Module name="CNC_ETCHING_MACHINE" Lut="2" T_Register="2267(0)" T_Alu="917(0)" T_Lut="1665(2)" T_MULT18X18="1(0)" T_Ssram="1(0)">
+ <SubModule name="SPI_Unit" Register="400" Alu="7" Lut="136" Ssram="1" T_Register="400(400)" T_Alu="7(7)" T_Lut="136(136)" T_Ssram="1(1)"/>
+ <SubModule name="FIFO_Unit" Register="1237" Lut="706" T_Register="1237(1237)" T_Lut="706(706)"/>
+ <SubModule name="The_Decoder" Register="120" Lut="132" T_Register="120(120)" T_Lut="132(132)"/>
+ <SubModule name="Motor_Driver" Register="494" Alu="881" Lut="682" T_Register="494(494)" T_Alu="881(881)" T_Lut="682(682)"/>
+ <SubModule name="Spindle_Driver" Register="16" Alu="29" Lut="7" MULT18X18="1" T_Register="16(16)" T_Alu="29(29)" T_Lut="7(7)" T_MULT18X18="1(1)"/>
 </Module>

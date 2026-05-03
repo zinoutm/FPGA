@@ -1,43 +1,51 @@
 [
  {
-  "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-  "InstLine" : 5,
+  "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+  "InstLine" : 21,
   "InstName" : "CNC_ETCHING_MACHINE",
-  "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-  "ModuleLine" : 5,
+  "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+  "ModuleLine" : 21,
   "ModuleName" : "CNC_ETCHING_MACHINE",
   "SubInsts" : [
    {
-    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-    "InstLine" : 54,
+    "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+    "InstLine" : 82,
     "InstName" : "SPI_Unit",
-    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/SPI_Interface.vhd",
+    "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/SPI_Interface.vhd",
     "ModuleLine" : 5,
     "ModuleName" : "SPI_Interface"
    },
    {
-    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-    "InstLine" : 68,
+    "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+    "InstLine" : 99,
     "InstName" : "FIFO_Unit",
-    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Instruction_FIFO.vhd",
-    "ModuleLine" : 5,
+    "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Instruction_FIFO_WithKill.vhd",
+    "ModuleLine" : 17,
     "ModuleName" : "Instruction_FIFO"
    },
    {
-    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-    "InstLine" : 79,
+    "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+    "InstLine" : 113,
     "InstName" : "The_Decoder",
-    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Opcode_Decoder.vhd",
-    "ModuleLine" : 5,
+    "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Opcode_Decoder.vhd",
+    "ModuleLine" : 39,
     "ModuleName" : "Opcode_Decoder"
    },
    {
-    "InstFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
-    "InstLine" : 104,
+    "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+    "InstLine" : 142,
     "InstName" : "Motor_Driver",
-    "ModuleFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Step_Generator.vhd",
-    "ModuleLine" : 5,
+    "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Step_Generator_FIXED.vhd",
+    "ModuleLine" : 24,
     "ModuleName" : "Step_Generator"
+   },
+   {
+    "InstFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
+    "InstLine" : 173,
+    "InstName" : "Spindle_Driver",
+    "ModuleFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Spindle_PWM.vhd",
+    "ModuleLine" : 29,
+    "ModuleName" : "Spindle_PWM"
    }
   ]
  }

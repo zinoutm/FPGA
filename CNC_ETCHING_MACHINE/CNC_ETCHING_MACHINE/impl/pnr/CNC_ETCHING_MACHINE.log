@@ -1,7 +1,7 @@
-Reading netlist file: "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg"
-Parsing netlist file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg" completed
+Reading netlist file: "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg"
+Parsing netlist file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg" completed
 Processing netlist completed
-Reading constraint file: "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.cst"
+Reading constraint file: "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\src\CNC_ETCHING_MACHINE.cst"
 Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
@@ -9,7 +9,6 @@ Running placement......
 [30%] Placement Phase 2 completed
 WARN  (TA1132) :  'sclk' was determined to be a clock but was not created.
 WARN  (TA1132) :  'clk' was determined to be a clock but was not created.
-WARN  (TA1132) :  'tck_pad_i' was determined to be a clock but was not created.
 [50%] Placement Phase 3 completed
 Running routing......
 [60%] Routing Phase 0 completed
@@ -24,10 +23,10 @@ Bitstream generation in progress......
 Bitstream generation completed
 Running power analysis......
 [100%] Power analysis completed
-Generate file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\CNC_ETCHING_MACHINE.power.html" completed
-Generate file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\CNC_ETCHING_MACHINE.pin.html" completed
-Generate file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\CNC_ETCHING_MACHINE.rpt.html" completed
-Generate file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\CNC_ETCHING_MACHINE.rpt.txt" completed
-Generate file "D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\CNC_ETCHING_MACHINE.tr.html" completed
-Tue Feb 17 00:11:55 2026
+Generate file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\CNC_ETCHING_MACHINE.power.html" completed
+Generate file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\CNC_ETCHING_MACHINE.pin.html" completed
+Generate file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\CNC_ETCHING_MACHINE.rpt.html" completed
+Generate file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\CNC_ETCHING_MACHINE.rpt.txt" completed
+Generate file "C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\CNC_ETCHING_MACHINE.tr.html" completed
+Sat May  2 23:25:31 2026
 

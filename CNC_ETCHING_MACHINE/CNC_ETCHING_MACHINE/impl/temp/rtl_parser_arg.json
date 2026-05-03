@@ -3,27 +3,32 @@
  "Files" : [
   {
    "Library" : "work",
-   "Path" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE.vhd",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/CNC_ETCHING_MACHINE_WithKill.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Instruction_FIFO.vhd",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Instruction_FIFO_WithKill.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Opcode_Decoder.vhd",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Opcode_Decoder.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/SPI_Interface.vhd",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/SPI_Interface.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Step_Generator.vhd",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Spindle_PWM.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/src/Step_Generator_FIXED.vhd",
    "Type" : "vhdl"
   }
  ],
@@ -31,7 +36,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "D:/Gowin/Gowin_V1.9.12_x64/IDE/bin/Documents/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/Aymen/OneDrive/Dokumenty/GitHub/FPGA/CNC_ETCHING_MACHINE/CNC_ETCHING_MACHINE/impl/temp/rtl_parser.result",
  "Top" : "CNC_ETCHING_MACHINE",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"

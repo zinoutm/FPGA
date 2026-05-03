@@ -1,9 +1,8 @@
--d D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg
+-d C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\gwsynthesis\CNC_ETCHING_MACHINE.vg
 -p GW1NR-9C-QFN88-6
 -pn GW1NR-LV9QN88C6/I5
--cst D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\src\CNC_ETCHING_MACHINE.cst
--cfg D:\Gowin\Gowin_V1.9.12_x64\IDE\bin\Documents\CNC_ETCHING_MACHINE\CNC_ETCHING_MACHINE\impl\pnr\device.cfg
--gao_crc 1010001100000000
+-cst C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\src\CNC_ETCHING_MACHINE.cst
+-cfg C:\Users\Aymen\OneDrive\Desktop\FPGA_CODES\fpga_to_test\impl\pnr\device.cfg
 -bit
 -tr
 -ph
@@ -16,4 +15,3 @@
 -correct_hold 1
 -route_maxfan 23
 -global_freq 50.000
--rtl_gao

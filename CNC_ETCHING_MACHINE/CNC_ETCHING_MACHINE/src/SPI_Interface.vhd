@@ -11,6 +11,7 @@ entity SPI_Interface is
         current_x    : in  std_logic_vector(31 downto 0);
         current_y    : in  std_logic_vector(31 downto 0);
         current_z    : in  std_logic_vector(31 downto 0);
+        inst_index   : in  std_logic_vector (15 downto 0);
         packet_out   : out std_logic_vector(143 downto 0);
         packet_valid : out std_logic := '0'
     );
@@ -50,7 +51,8 @@ begin
                 shift_tx <= current_x(29 downto 0) &  -- 30 bits
                             current_y              &   -- 32 bits
                             current_z              &   -- 32 bits
-                            x"000000000000"        &   -- 48 bits
+                            inst_index             &
+                            x"00000000"            &-- 48 bits
                             "00";                      -- 2  bits
                                                        -- total = 144 bits ✅
             else
